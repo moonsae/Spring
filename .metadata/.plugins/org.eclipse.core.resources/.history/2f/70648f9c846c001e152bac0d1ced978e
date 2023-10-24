@@ -1,0 +1,5 @@
+package com.acorn.inter;
+
+public class SessionInterceptor {
+
+}

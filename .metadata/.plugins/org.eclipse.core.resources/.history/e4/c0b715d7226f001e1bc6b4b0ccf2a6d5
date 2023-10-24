@@ -1,0 +1,6 @@
+package com.acorn.prj;
+
+@Controller
+public class Controller {
+
+}

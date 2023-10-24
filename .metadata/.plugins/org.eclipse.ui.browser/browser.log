@@ -1,0 +1,68 @@
+
+10월 04, 2023 11:44:17.222 NEW SESSION
+10월 04, 2023 11:44:17.222 [22540:18200:1004/114417.216:ERROR:device_event_log_impl.cc(225)] [11:44:17.216] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 04, 2023 11:44:17.957 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 04, 2023 11:46:07.914 [21064:18164:1004/114607.912:ERROR:device_event_log_impl.cc(225)] [11:46:07.912] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 04, 2023 11:46:08.252 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 04, 2023 12:37:45.111 [21064:18164:1004/123745.111:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 04, 2023 12:37:45.112 [21064:18164:1004/123745.111:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 04, 2023 12:42:57.41 [21064:18164:1004/124257.041:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+10월 04, 2023 14:20:54.371 NEW SESSION
+10월 04, 2023 14:20:54.371 [19028:17764:1004/142054.369:ERROR:device_event_log_impl.cc(225)] [14:20:54.369] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 04, 2023 14:20:55.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 04, 2023 14:48:21.188 [19028:17764:1004/144821.187:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+10월 06, 2023 09:35:34.717 NEW SESSION
+10월 06, 2023 09:35:34.717 [24708:1688:1006/093534.715:ERROR:device_event_log_impl.cc(225)] [09:35:34.715] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 06, 2023 09:35:35.584 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 06, 2023 09:38:19.239 [9304:11960:1006/093819.239:ERROR:device_event_log_impl.cc(225)] [09:38:19.239] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 06, 2023 09:38:19.432 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 06, 2023 09:39:52.783 [9304:11960:1006/093952.783:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 09:39:52.784 [9304:11960:1006/093952.783:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 09:45:28.322 [9304:11960:1006/094528.321:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 10:07:46.341 [15432:22768:1006/100746.341:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+10월 06, 2023 14:22:16.977 NEW SESSION
+10월 06, 2023 14:22:16.977 [9948:24004:1006/142216.975:ERROR:device_event_log_impl.cc(225)] [14:22:16.975] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 06, 2023 14:22:17.394 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 06, 2023 14:29:50.69 [23628:14892:1006/142950.069:ERROR:device_event_log_impl.cc(225)] [14:29:50.069] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 06, 2023 14:29:50.329 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 06, 2023 14:44:57.732 [18756:15600:1006/144457.732:ERROR:device_event_log_impl.cc(225)] [14:44:57.732] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 06, 2023 14:44:58.163 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 06, 2023 14:57:44.140 [18756:15600:1006/145744.140:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 15:33:41.275 [18756:15600:1006/153341.275:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 15:33:41.276 [18756:15600:1006/153341.275:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 16:12:12.76 [18756:15600:1006/161212.076:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 16:33:12.603 [18756:15600:1006/163312.602:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 06, 2023 16:33:12.604 [18756:15600:1006/163312.602:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+10월 12, 2023 10:19:44.896 NEW SESSION
+10월 12, 2023 10:19:44.896 [25024:14388:1012/101944.894:ERROR:device_event_log_impl.cc(225)] [10:19:44.894] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 12, 2023 10:19:45.989 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 12, 2023 10:45:06.453 [15948:11732:1012/104506.453:ERROR:device_event_log_impl.cc(225)] [10:45:06.452] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 12, 2023 10:45:06.889 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 12, 2023 10:47:33.264 [8588:24884:1012/104733.264:ERROR:device_event_log_impl.cc(225)] [10:47:33.264] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 12, 2023 10:47:33.439 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 12, 2023 10:54:36.572 [14220:17240:1012/105436.572:ERROR:device_event_log_impl.cc(225)] [10:54:36.572] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 12, 2023 10:54:36.760 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 12, 2023 11:13:29.429 [14220:17240:1012/111329.428:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 11:43:51.703 [14220:17240:1012/114351.703:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 12:44:21.723 [14220:17240:1012/124421.722:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 12:44:21.724 [14220:17240:1012/124421.723:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 13:23:18.56 [14220:17240:1012/132318.055:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 13:27:21.632 [14220:17240:1012/132721.632:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 12, 2023 13:29:16.859 [14220:12640:1012/132916.859:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.hg-times.com failed:
+10월 12, 2023 13:29:16.860 ----- Certificate i=0 (CN=www.hg-times.com,OU=PositiveSSL,OU=Domain Control Validated) -----
+10월 12, 2023 13:29:16.860 ERROR: Time is after notAfter
+10월 12, 2023 13:29:16.862 
+10월 12, 2023 13:29:16.863 
+10월 12, 2023 14:06:53.691 [25796:22160:1012/140653.691:ERROR:device_event_log_impl.cc(225)] [14:06:53.691] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 12, 2023 14:06:53.897 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 12, 2023 14:23:20.353 [25796:22160:1012/142320.353:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+10월 17, 2023 10:03:36.408 NEW SESSION
+10월 17, 2023 10:03:36.408 [22832:11240:1017/100336.406:ERROR:device_event_log_impl.cc(225)] [10:03:36.405] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+
+10월 17, 2023 13:45:51.691 NEW SESSION
+10월 17, 2023 13:45:51.691 [8648:9928:1017/134551.689:ERROR:device_event_log_impl.cc(225)] [13:45:51.689] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
